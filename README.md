@@ -1,6 +1,6 @@
 # cs415-crud-appetizers
 
-##Web application homework
+## Web application homework
 
 Connecting php to the database and let the user decide on what
 to do with the data:
